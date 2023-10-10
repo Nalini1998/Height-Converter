@@ -1,0 +1,91 @@
+form {
+      font-family: 'Brush Script MT', cursive;
+      background-color: #78909C;
+      color: #263238;
+      margin: 20px auto;
+      padding: 25px;
+      width: 600px;
+      height: 550px;
+      line-height: 40px;
+      border-radius: 55px;
+      font-weight: 800;  
+      font-size: 20px;
+      margin-top: 80px;
+}
+    
+body {
+     background-color: #fff;
+}
+
+input{
+    background-color: #fff;
+    border: 0;
+    color: #000;
+    padding: 0px 15;
+    cursor: pointer;
+    margin-top: 35px;
+    text-align: center;
+    font-weight: 800;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 500px;
+}
+
+input:hover {
+    border: 0;
+    padding: 5px 21px;
+    cursor: pointer;
+    margin-top: 35px;
+    text-align: center;
+    font-weight: 800;
+    border-radius: 5px;
+    width: 500px;
+}
+
+#button {
+    list-style: none;
+    text-align: center;
+    line-height: 35px;
+    color: #000;
+    font-weight: 800;
+    margin-left: 260px;
+    font-size: 15px;
+    float: center;
+    width: 80px;
+    background-color: #CFD8DC;
+    text-shadow: 2px 2px 4px #fff;
+}
+
+#results{
+    margin-top: 40px;
+    border-radius: 5px;
+    color: #B71C1C;
+    font-weight: 700;
+    text-align: center;
+}
+
+h1 {
+    color: #455A64;
+    margin:50px auto;
+    font-size: 30px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 60px;
+    text-shadow: 2px 2px 4px #fff;
+}
+    
+    
+img {
+    margin-right: 150px;    
+    float: right;
+}
+    
+h6 {
+   color: #263238;
+   text-align: center;
+   float:center;
+    }
+    
+h6:hover {
+   color: #455A64;   
+    }
